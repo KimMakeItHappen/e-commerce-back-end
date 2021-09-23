@@ -2,12 +2,12 @@
 
 # Table of Contents
 
-* Description(#Description)
-* User Story(#UserStory)
-* Installation(#Installation)
-* Usage(#Usage)
-* Mock-up(#Mock-up)
-* Questions(#Questions)
+* [Description](#Description)
+* [User Story](#UserStory)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Mock-up](#Mock-up)
+* [Questions](#Questions)
 
 # Description
 
